@@ -5,6 +5,7 @@ import lombok.*;
 @NoArgsConstructor
 public class Usuario {
 
+
     private String nombre;
 
 
